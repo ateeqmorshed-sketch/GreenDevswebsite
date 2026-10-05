@@ -1,0 +1,7 @@
+Open a terminal in this folder and run:
+
+npx vercel login
+npx vercel link
+npx vercel --prod
+
+Create a new project named green-devs-studio when prompted. This is a static website. No build command is needed.
